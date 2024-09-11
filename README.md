@@ -21,7 +21,7 @@ Firstly i have combined all the Stopword list that were provided to me into sing
 as easy to check values from set if they are present or not.
 Then simply removed the Stopwords from every rows of Scapred Dataset
 2.Creating a dictionary of Positive and Negative word
-	I have have loaded both positive and negative word text file into:
+I have have loaded both positive and negative word text file into:
 positive_words = load_word_list(positivedictionaydir)
 negative_words = load_word_list(negativedictionaydir) 
 
