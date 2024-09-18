@@ -148,6 +148,4 @@ The output of the readability analysis was appended to the dataset and saved as 
 - **Additional Preprocessing**: Implement more sophisticated text cleaning techniques, especially for domain-specific data.
 - **Enhance Sentiment Analysis**: Use advanced NLP techniques for sentiment analysis, such as using pretrained models for context-aware sentiment.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## Input.xlsx and Output_Data_Structure.xlsx are not including because of confidentiallity 
